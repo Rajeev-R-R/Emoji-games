@@ -1,2 +1,3 @@
 # MY-REPOSITORY
-This is my first Repository
+This is my first Repository.
+Author- Rajeev Ranjan
