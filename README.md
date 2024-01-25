@@ -1,3 +1,2 @@
-# MY-REPOSITORY
-This is my first git Repository.
+Website with Login and Registration HTML CSS & Javascript.
 Author- Rajeev Ranjan
